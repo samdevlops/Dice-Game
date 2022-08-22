@@ -14,7 +14,7 @@ body {
   background-color: #393E46;
 }
 
-h1 {
+h2 {
   margin: 30px;
   font-family: 'Lobster', cursive;
   text-shadow: 5px 0 #232931;
@@ -30,6 +30,14 @@ p {
 
 img {
   width: 80%;
+}
+
+.btn{
+  background-color: #4ECCA3;
+  color: yellow;
+  padding:10px;
+  border: 1px solid yellow;
+  border-radius: 5px;
 }
 
 footer {
